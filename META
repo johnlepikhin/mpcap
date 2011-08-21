@@ -1,0 +1,5 @@
+version = "1.0"
+description = "Minimalistic Pcap library for Ocaml"
+requires = "unix"
+archive(byte) = "mpcap.cma"
+archive(native) = "mpcap.cmxa"
